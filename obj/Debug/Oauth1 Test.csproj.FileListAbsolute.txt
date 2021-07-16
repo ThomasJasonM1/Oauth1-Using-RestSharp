@@ -1,0 +1,11 @@
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\Oauth1 Test.exe.config
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\Oauth1 Test.exe
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\Oauth1 Test.pdb
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\DevDefined.OAuth.dll
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\RestSharp.dll
+C:\Call-Em-All\Rest Test\Oauth1 Test\bin\Debug\RestSharp.xml
+C:\Call-Em-All\Rest Test\Oauth1 Test\obj\Debug\Oauth1 Test.csprojAssemblyReference.cache
+C:\Call-Em-All\Rest Test\Oauth1 Test\obj\Debug\Oauth1 Test.csproj.CoreCompileInputs.cache
+C:\Call-Em-All\Rest Test\Oauth1 Test\obj\Debug\Oauth1 Test.csproj.CopyComplete
+C:\Call-Em-All\Rest Test\Oauth1 Test\obj\Debug\Oauth1 Test.exe
+C:\Call-Em-All\Rest Test\Oauth1 Test\obj\Debug\Oauth1 Test.pdb
